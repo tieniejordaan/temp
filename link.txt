@@ -5,3 +5,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA2MTkyZDAtOGQ2OS00NTU1L
 Conference Details:
 +61 2 9161 1238   Australia, Sydney (Toll)
 Conference ID: 419 081 90#
+
+Training App Download links:
+	Windows: https://github.com/tieniejordaan/trainingapp/raw/master/trainingapp-win-0.5.zip
+	MacOS: https://github.com/tieniejordaan/trainingapp/raw/master/trainingapp-osx-0.5.zip
